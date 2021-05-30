@@ -1,0 +1,97 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "firstName": "Boris",
+      "lastName": "Johnson",
+      "blockContact": true,
+      "addressId": 1
+    },
+    {
+      "id": "2",
+      "firstName": "The",
+      "lastName": "Queen",
+      "blockContact": false,
+      "addressId": 2
+    },
+    {
+      "firstName": "elio",
+      "lastName": "Mehmeti",
+      "blockContact": "on",
+      "addressId": 3,
+      "id": "kZp1dh8"
+    },
+    {
+      "firstName": "elio",
+      "lastName": "Mehmeti",
+      "blockContact": "on",
+      "addressId": 4,
+      "id": "dKK4u3N"
+    },
+    {
+      "firstName": "elio",
+      "lastName": "Mehmeti",
+      "blockContact": "on",
+      "addressId": 5,
+      "id": "OYxAfuQ"
+    },
+    {
+      "firstName": "elio",
+      "lastName": "Mehmeti",
+      "blockContact": "on",
+      "addressId": 6,
+      "id": "kK3rjUI"
+    },
+    {
+      "firstName": "elio",
+      "lastName": "Mehmeti",
+      "blockContact": "on",
+      "addressId": 7,
+      "id": "9Gy7383"
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "street": "10 Downing Street",
+      "city": "London",
+      "postCode": "SW1A 2AB"
+    },
+    {
+      "id": 2,
+      "street": "Buckingham Palace",
+      "city": "London",
+      "postCode": "SW1A 1AA"
+    },
+    {
+      "street": "`zdas",
+      "city": "dad",
+      "postCode": "adad",
+      "id": 3
+    },
+    {
+      "street": "`zdas",
+      "city": "dad",
+      "postCode": "adad",
+      "id": 4
+    },
+    {
+      "street": "`zdas",
+      "city": "dad",
+      "postCode": "adad",
+      "id": 5
+    },
+    {
+      "street": "`zdas",
+      "city": "dad",
+      "postCode": "adad",
+      "id": 6
+    },
+    {
+      "street": "`zdas",
+      "city": "dad",
+      "postCode": "adad",
+      "id": 7
+    }
+  ]
+}
